@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 ## I'm Snehita
 
 ## A little bit about me: 
-* I am an aspiring web developer from San Francisco, CA. 
-* I recently earned my certification in Full Stack Web Development (06/2022) from UC Berkeley Extension, Coding Bootcamp. 
-* My background is in medical sciences, and I recently graduated with a MS in Basic Medical Sciences (December 2021).
-* I am excited to further enhance my skills in the future as part of a fast-paced, quality-driven team in order to build better experiences for users on the web!
-
-## Please do not hesitate to reach out! 
+* 💻 I am an aspiring web developer from San Francisco, CA. 
+* ⌨️ I recently earned my certification in Full Stack Web Development (06/2022) from UC Berkeley Extension, Coding Bootcamp. 
+* 💉 My background is in medical sciences, and I recently graduated with a MS in Basic Medical Sciences (December 2021).
+* 🌱 I am excited to further enhance my skills in the future as part of a fast-paced, quality-driven team in order to build better experiences for users on the web!
+* 📫 Please do not hesitate to reach out! 
