@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Snehita
+## Hi there, I'm Snehita 👋
 
 ## A little bit about me: 
 * 💻 I am an aspiring web developer from San Francisco, CA. 
